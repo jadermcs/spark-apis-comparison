@@ -1,10 +1,30 @@
 * Roteiro
+Aplicar intervalos de confiança para todos os testes.
 
+Definir complexidade computacional de cada avaliação.
+
+Repetir (n?) vezes cada teste.
+
+Quais possiveis diferenças nas operações executadas pelo java e pelo scala.
+
+** TODO Avaliar Streaming
 ** TODO Avaliar GraphX
+
+*** TODO Metodologia
+Encontrar Cliques? PageRank? Quantidade de nós aumentar ou deixar o gráfico mais denso
+*** TODO Referências
+[PageRank](https://github.com/apache/spark/blob/master/examples/src/main/scala/org/apache/spark/examples/SparkPageRank.scala)
+[GraphX](https://github.com/apache/spark/tree/master/examples/src/main/scala/org/apache/spark/examples/graphx)
 
 ** TODO Avaliar SQL
 
 ** TODO Avaliar RDD (WordCount)
 
 ** TODO Avaliar Paralelismo (SparkPI)
-*** Metodologia
+
+*** TODO Metodologia
+Número de iterações n define em quanto a precisão da minha aproximação de PI?
+Variar n para
+
+Usar monte carlo ou metodo de leibniz? (função random é sincrona, impedindo o paralelismo para um computador)
+Quantas iterações?
