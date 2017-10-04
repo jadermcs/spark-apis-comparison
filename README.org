@@ -1,10 +1,10 @@
 * Roteiro
 
-** Avaliar GraphX
+** TODO Avaliar GraphX
 
-** Avaliar SQL
+** TODO Avaliar SQL
 
-** Avaliar RDD (WordCount)
+** TODO Avaliar RDD (WordCount)
 
-** Avaliar Paralelismo (SparkPI)
+** TODO Avaliar Paralelismo (SparkPI)
 *** Metodologia
