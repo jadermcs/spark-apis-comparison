@@ -1,27 +1,35 @@
 * Roteiro
-Aplicar intervalos de confiança para todos os testes.
+Avaliar:
+1. Aplicar intervalos de confiança para todos os testes.
 
-Definir complexidade computacional de cada avaliação.
+2. Definir complexidade computacional de cada avaliação.
 
-Repetir (n?) vezes cada teste.
+3. Repetir (n?) vezes cada teste.
 
-Quais possiveis diferenças nas operações executadas pelo java e pelo scala.
-
+4. Quais possiveis diferenças nas operações executadas pelo java e pelo scala.
+   :TESTE:    
+   eai de boas
+   :END:
 ** TODO Avaliar Streaming
+   DEADLINE: <2017-10-08 Dom>
 
 ** TODO Avaliar GraphX
+   DEADLINE: <2017-10-11 Qua>
 
 *** TODO Metodologia
 Encontrar Cliques? PageRank? Quantidade de nós aumentar ou deixar o gráfico mais denso
 *** TODO Referências
-[PageRank](https://github.com/apache/spark/blob/master/examples/src/main/scala/org/apache/spark/examples/SparkPageRank.scala)
-[GraphX](https://github.com/apache/spark/tree/master/examples/src/main/scala/org/apache/spark/examples/graphx)
+    [[https://github.com/apache/spark/blob/master/examples/src/main/scala/org/apache/spark/examples/SparkPageRank.scala][PageRank]]
+    [[https://github.com/apache/spark/tree/master/examples/src/main/scala/org/apache/spark/examples/graphx][GraphX-examples]]
 
 ** TODO Avaliar SQL
+   DEADLINE: <2017-10-25 Qua>
 
 ** TODO Avaliar RDD (WordCount)
+   DEADLINE: <2017-11-06 Seg>
 
 ** TODO Avaliar Paralelismo (SparkPI)
+   DEADLINE: <2017-11-14 Ter>
 
 *** TODO Metodologia
 Número de iterações n define em quanto a precisão da minha aproximação de PI?
@@ -29,4 +37,6 @@ Variar n para
 
 Usar monte carlo ou metodo de leibniz? (função random é sincrona, impedindo o paralelismo para um computador)
 Quantas iterações?
-[[http://orgmode.org/manual/Motion.html#Motion][New-way]]
+
+
+#+TODO: TODO(t) IN-PROGRESS (p) | DONE(d)
