@@ -8,6 +8,7 @@ Repetir (n?) vezes cada teste.
 Quais possiveis diferenças nas operações executadas pelo java e pelo scala.
 
 ** TODO Avaliar Streaming
+
 ** TODO Avaliar GraphX
 
 *** TODO Metodologia
@@ -28,3 +29,4 @@ Variar n para
 
 Usar monte carlo ou metodo de leibniz? (função random é sincrona, impedindo o paralelismo para um computador)
 Quantas iterações?
+[[http://orgmode.org/manual/Motion.html#Motion][New-way]]
