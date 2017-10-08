@@ -7,9 +7,9 @@ Avaliar:
 3. Repetir (n?) vezes cada teste.
 
 4. Quais possiveis diferenças nas operações executadas pelo java e pelo scala.
-   :TESTE:    
-   eai de boas
-   :END:
+
+5. Mensurar uso de disco durante os testes, ex.Slide aula1-4.pdf pag.90
+
 ** TODO Avaliar Streaming
    DEADLINE: <2017-10-08 Dom>
 
@@ -27,6 +27,8 @@ Encontrar Cliques? PageRank? Quantidade de nós aumentar ou deixar o gráfico ma
 
 ** TODO Avaliar RDD (WordCount)
    DEADLINE: <2017-11-06 Seg>
+*** Metodologia
+Variar dados, logs de arquivo, csvs, livros do shakespeare, lorem ipsum, etc
 
 ** TODO Avaliar Paralelismo (SparkPI)
    DEADLINE: <2017-11-14 Ter>
