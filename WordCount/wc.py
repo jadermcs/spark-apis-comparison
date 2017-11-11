@@ -3,8 +3,8 @@ from __future__ import print_function
 import sys
 from operator import add
 
-from pyspark.sql import SparkContext
-from pyspark.sql import SparkConf
+from pyspark import SparkContext
+from pyspark import SparkConf
 
 
 if __name__ == "__main__":
