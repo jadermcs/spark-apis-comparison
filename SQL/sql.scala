@@ -11,3 +11,5 @@ def main(args: Array[String]) {
     .getOrCreate()
 
   val df = spark.read.json(filein)
+  val result = df.select("Arrival_Time").mean
+  result.saveAsTextFile(fileout)

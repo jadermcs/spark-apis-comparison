@@ -17,4 +17,6 @@ if __name__ == "__main__":
 
 
     df = spark.read.json(filein)
+    result = df.select("Arrival_Time").mean
+    result.saveAsTextFile(fileout)
 
