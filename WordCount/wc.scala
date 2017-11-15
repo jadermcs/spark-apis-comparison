@@ -4,7 +4,7 @@ import org.apache.spark.SparkContext
 
 object WordCouter {
   def main(args: Array[String]): Unit = {
-    val filein = argsa(0)
+    val filein = args(0)
     val fileout = args(1)
     // create a spark context with desired configs and
     // pass to the sqlcontext
