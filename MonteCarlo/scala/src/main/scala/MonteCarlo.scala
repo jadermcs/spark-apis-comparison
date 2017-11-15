@@ -1,6 +1,6 @@
 import org.apache.spark.SparkContext
 import org.apache.spark.SparkConf
-import java.util.Random
+import scala.util.Random
 import java.io.{File, PrintWriter}
 
 object MonteCarlo {
