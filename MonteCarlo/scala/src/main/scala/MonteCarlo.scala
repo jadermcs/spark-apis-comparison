@@ -7,8 +7,8 @@ object MonteCarlo {
   def main(args: Array[String]): Unit = {
     val NUM_SAMPLES: Int = 100000000
     val conf = new SparkConf().setMaster("local[*]")
-      .setAppName("csv2parquet")
-	val sc = new SparkContext(conf)
+      .setAppName("MonteCarlo")
+    val sc = new SparkContext(conf)
 
     val rnd = new Random
     val log = new PrintWriter(new File("montecarlo-scala.log" ))
