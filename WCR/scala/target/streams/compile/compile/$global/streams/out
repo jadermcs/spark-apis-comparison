@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/home/jader/Projects/git/spark-apis-comparison/WordCount/scala/src/main/scala/WordCount.scala:31:56: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : qual$3.type (with underlying type better.files.File)[0m
+[0m[[0m[31merror[0m] [0m[0m required: java.io.File[0m
+[0m[[0m[31merror[0m] [0m[0m      val path: File = fileout.toFile.createIfNotExists()[0m
+[0m[[0m[31merror[0m] [0m[0m                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
