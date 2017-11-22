@@ -1,20 +1,18 @@
-Elapsed time: 28.042595
-Pi is roughly: 3.141263
-Elapsed time: 26.728135
-Pi is roughly: 3.141263
-Elapsed time: 26.696372
-Pi is roughly: 3.141263
-Elapsed time: 26.697627
-Pi is roughly: 3.141263
-Elapsed time: 26.708715
-Pi is roughly: 3.141263
-Elapsed time: 26.729121
-Pi is roughly: 3.141263
-Elapsed time: 26.720275
-Pi is roughly: 3.141263
-Elapsed time: 26.724553
-Pi is roughly: 3.141263
-Elapsed time: 26.737158
-Pi is roughly: 3.141263
-Elapsed time: 26.849312
-Pi is roughly: 3.141263
+Elapsed time: 1.725583	NUM_SAMPLES: 10
+Pi is roughly: 3.200000
+Elapsed time: 0.088811	NUM_SAMPLES: 100
+Pi is roughly: 3.200000
+Elapsed time: 0.095022	NUM_SAMPLES: 1000
+Pi is roughly: 3.088000
+Elapsed time: 0.092025	NUM_SAMPLES: 10000
+Pi is roughly: 3.129600
+Elapsed time: 0.114364	NUM_SAMPLES: 100000
+Pi is roughly: 3.148480
+Elapsed time: 0.350345	NUM_SAMPLES: 1000000
+Pi is roughly: 3.143600
+Elapsed time: 2.725295	NUM_SAMPLES: 10000000
+Pi is roughly: 3.141160
+Elapsed time: 26.833081	NUM_SAMPLES: 100000000
+Pi is roughly: 3.141628
+Elapsed time: 266.165882	NUM_SAMPLES: 1000000000
+Pi is roughly: 3.141603
