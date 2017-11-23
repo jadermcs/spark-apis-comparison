@@ -39,5 +39,6 @@ Variar n para
 
 Usar monte carlo ou metodo de leibniz? (função random é sincrona, impedindo o paralelismo para um computador)
 Quantas iterações?
+teste
 
 #+TODO: TODO(t) IN-PROGRESS (p) | DONE(d)
