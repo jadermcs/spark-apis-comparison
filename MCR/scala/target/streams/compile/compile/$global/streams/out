@@ -1,10 +1,6 @@
-[0m[[0m[31merror[0m] [0m[0m/home/jader/Projects/git/spark-apis-comparison/MonteCarlo/scala/src/main/scala/MonteCarlo.scala:4:8: object File is not a member of package io[0m
-[0m[[0m[31merror[0m] [0m[0mimport scala.io.{File, PrintWriter}[0m
-[0m[[0m[31merror[0m] [0m[0m       ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/jader/Projects/git/spark-apis-comparison/MonteCarlo/scala/src/main/scala/MonteCarlo.scala:14:19: not found: type PrintWriter[0m
-[0m[[0m[31merror[0m] [0m[0m    val log = new PrintWriter(new File("montecarlo-scala.log" ))[0m
-[0m[[0m[31merror[0m] [0m[0m                  ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/jader/Projects/git/spark-apis-comparison/MonteCarlo/scala/src/main/scala/MonteCarlo.scala:14:35: not found: type File[0m
-[0m[[0m[31merror[0m] [0m[0m    val log = new PrintWriter(new File("montecarlo-scala.log" ))[0m
-[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
-[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/jader/Projects/git/spark-apis-comparison/MCR/scala/src/main/scala/MonteCarlo.scala:20:39: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Long[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m      val count = sc.parallelize(1 to samplexp).filter { _ =>[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

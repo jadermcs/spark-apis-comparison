@@ -4,7 +4,7 @@
 		module="montecarlo-scala_2.11"
 		revision="0.1"
 		status="integration"
-		publication="20171115193801"
+		publication="20171121215804"
 	>
 		<description>
 		MonteCarlo.scala
